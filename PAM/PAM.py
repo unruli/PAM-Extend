@@ -11,7 +11,7 @@ import torch
 import argparse
 import yaml
 import sys
-from huggingface_hub.file_download import hf_hub_download
+from huggingface_hub import hf_hub_download
 logging.set_verbosity_error()
 import torch.nn.functional as F
 import collections
