@@ -3,6 +3,7 @@ import torch
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 from PAM import PAM
+#from PAM.PAM_QwenAudio import PAM_QwenAudio
 from dataset import ExampleDatasetFolder
 
 if __name__ == '__main__':
