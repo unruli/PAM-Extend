@@ -15,6 +15,7 @@ if __name__ == '__main__':
 
     # initialize PAM
     pam = PAM(use_cuda=torch.cuda.is_available())
+    #pam = PAM_QwenAudio(use_cuda=torch.cuda.is_available())
 
     # Create Dataset and Dataloader
     dataset = ExampleDatasetFolder(
