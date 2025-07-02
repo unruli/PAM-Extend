@@ -50,12 +50,3 @@ Then run the following commands.
 ```
 where `{folder_path}` points to `human_eval` folder.
 
-## Citation
-```BibTeX
-@article{deshmukh2024pam,
-  title={PAM: Prompting Audio-Language Models for Audio Quality Assessment},
-  author={Soham Deshmukh and Dareen Alharthi and Benjamin Elizalde and Hannes Gamper and Mahmoud Al Ismail and Rita Singh and Bhiksha Raj and Huaming Wang},
-  journal={arXiv preprint arXiv:2402.00282},
-  year={2023}
-}
-```
